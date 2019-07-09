@@ -1,0 +1,5 @@
+ excluded Intellij idea files
+
+out/
+.idea/*
+*.iml
